@@ -1,0 +1,9 @@
+{
+    "domain": "azure_personal_voice",
+    "name": "Azure Personal Voice",
+    "documentation": "https://www.loryanstrant.com",
+    "requirements": ["requests"],
+    "dependencies": [],
+    "codeowners": ["@LoryanStrant"],
+    "version": "0.0.1"
+  }  
