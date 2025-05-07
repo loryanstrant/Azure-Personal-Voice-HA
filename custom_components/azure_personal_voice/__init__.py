@@ -1,1 +1,1 @@
-"""Initialize Azure Personal Voice component."""
+DOMAIN = "azure_tts_custom"
