@@ -1,6 +1,7 @@
 tts:
-  - platform: azure_personal_voice
-    api_key: "YourResourceKey"
-    region: "YourResourceRegion"
-    voice_name: "YourVoiceName"
-    speaker_profile_id: "YourSpeakerProfileId"
+  - platform: azure_tts_custom
+    api_key: YourAPIKey
+    region: YourResourceRegion
+    voice: YourVoiceModel
+    speaker_profile_id: Your-Speaker-Profile-GUID
+    language: YourLanguage
