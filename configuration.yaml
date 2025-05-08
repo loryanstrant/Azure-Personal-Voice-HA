@@ -1,7 +1,7 @@
 tts:
-  - platform: azure_tts_custom
-    api_key: YourAPIKey
-    region: YourResourceRegion
-    voice: YourVoiceModel
-    speaker_profile_id: Your-Speaker-Profile-GUID
-    language: YourLanguage
+  - platform: azure_personal_voice
+    api_key: YourAPIKey   # Example: 230982340sfsd0fasf2038
+    region: YourResourceRegion   # Example: southeastasia)
+    voice: YourVoiceModel   # Example: PhoenixLatestNeural
+    speaker_profile_id: YourSpeakerProfileID   # Example: 032948309-b32-3029-032948b934
+    language: YourLanguage   # Example: en-AU
