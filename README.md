@@ -49,9 +49,21 @@ This table explains each of the lines and what inputs should be provided.
 | voice  | The Azure region where your Speech resource is deployed   |
 | speaker_profile_id  | The ID you [obtained in this step](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/personal-voice-create-voice)   |
 | language  | The local language you'd like to use, using one of the [options listed here](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support?tabs=tts#personal-voice)  |
+<br>
+
+#### Full example:
+```
+tts:
+  - platform: azure_personal_voice
+    api_key: a2323049847d79650aca3e7e0e476
+    region: southeastasia
+    voice: PhoenixLatestNeural
+    speaker_profile_id: 12345678-ab12-1234-ab12-1abc2ef34568
+    language: en-AU
+```
 
 <br>
-Restart Home Assistant again.
+Once you've updated the configuration.yaml file, restart Home Assistant again.
 <br><br>
 
 
