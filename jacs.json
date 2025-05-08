@@ -1,0 +1,7 @@
+{
+  "name": "Azure Personal Voice",
+  "content_in_root": false,
+  "domain": "azure_personal_voice",
+  "country": "global",
+  "render_readme": true
+}
