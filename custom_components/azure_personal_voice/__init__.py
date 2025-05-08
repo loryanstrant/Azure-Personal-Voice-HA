@@ -1,1 +1,1 @@
-DOMAIN = "azure_tts_custom"
+DOMAIN = "azure_personal_voice"
