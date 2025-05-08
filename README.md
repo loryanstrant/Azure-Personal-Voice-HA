@@ -1,7 +1,7 @@
 # Azure-Personal-Voice-HA
 Azure Personal Voice in Home Assistant
 
-[![Add to HACS](https://img.shields.io/badge/HACS-Add%20Integration-blue.svg?style=for-the-badge&logo=home-assistant)](https://my.home-assistant.io/redirect/hacs_repository/?owner=loryanstrant&repository=Azure-Personal-Voice-HA&category=integration)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=loryanstrant&repository=Azure-Personal-Voice-HA&category=integration)
 
 
 ## Example action:
