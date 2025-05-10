@@ -4,11 +4,16 @@
 
 This integration allows you to use the [Personal Voice service](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/personal-voice-overview) in Azure Speech Studio with your Home Assistant instance.
 <br><br>
+
 **Why did I create this when there are services like ElevenLabs?**
 <br>
 Because I didn't want to upload my voice into a third-party service where I don't have full control of the data.<br>
 Now, you can argue that there's enough video content of me online that my voice could be simulated from sampling those, but let me have my principles ok?
 <br><br>
+
+You can find a [write-up of the solution along with a demo here](https://www.loryanstrant.com/2025/05/10/integrating-azure-personal-voice-with-home-assistant/).
+<br><br>
+
 
 ## Installation
 The following assumes you already have:
